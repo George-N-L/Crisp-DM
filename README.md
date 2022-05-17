@@ -20,7 +20,11 @@ The results are stored in the Jupiter notebook file described in the “USED FIL
 ## REFERENCES
 Thanks for Udacity for stimulating me as a student in one of their MOOC programs. More on Udacity here. 
 Titanic Data Link – here.
-During my article writing came across some very useful links that could have not done without. So big thanks to the below:
+During my article writing came across some very useful links that could have not done without. 
+
+So big thanks to the below:
 correlation matrix reference https://towardsdatascience.com/better-heatmaps-and-correlation-matrix-plots-in-python-41445d0f2bec
+
 Stacked % charts https://towardsdatascience.com/100-stacked-charts-in-python-6ca3e1962d2b
+
 Inflation Calculator https://www.usinflationcalculator.com/
