@@ -17,7 +17,8 @@ I have no writes to the data, it is used solely for accomplishment of the Udacit
 ## RESULTS
 The results are stored in the Jupiter notebook file described in the “USED FILEs”.
 
-Final results in a form of an artcile is also being published on the following location: https://medium.com/@georgenikolov_33158/could-you-have-purchased-extended-life-on-the-titanic-cruise-54201853494e 
+Final results in a form of an artcile is also being published on the following location: 
+https://medium.com/@georgenikolov_33158/could-you-have-purchased-extended-life-on-the-titanic-cruise-54201853494e 
  
 ## REFERENCES
 Thanks for Udacity for stimulating me as a student in one of their MOOC programs. More on Udacity here. 
