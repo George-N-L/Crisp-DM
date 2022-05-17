@@ -23,8 +23,9 @@ Titanic Data Link – here.
 During my article writing came across some very useful links that could have not done without. 
 
 So big thanks to the below:
-correlation matrix reference https://towardsdatascience.com/better-heatmaps-and-correlation-matrix-plots-in-python-41445d0f2bec
 
-Stacked % charts https://towardsdatascience.com/100-stacked-charts-in-python-6ca3e1962d2b
+- Correlation matrix reference https://towardsdatascience.com/better-heatmaps-and-correlation-matrix-plots-in-python-41445d0f2bec
 
-Inflation Calculator https://www.usinflationcalculator.com/
+- Stacked % charts https://towardsdatascience.com/100-stacked-charts-in-python-6ca3e1962d2b
+
+- Inflation Calculator https://www.usinflationcalculator.com/
