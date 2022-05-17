@@ -2,7 +2,8 @@
 This folder is used for a Udacity Data Science Project - Crisp DM
 
 ## MOTIVATION:
-
+The motivation from this project was to fulfill the requirements for the Udacity Data Science Citizen Crisp DM assignment. For it we were given a few datasets to choose from or find another interesting dataset from Kaggle. Thus I decided to search for some interesting dataset in Kaggle which matches my curiousity of travelling. One of my passions which I have is to sail with a cruise ship and before doing so to get acquinted with its risk and what a better place than learn from history.
+Additionally, wanted to explore some conditional probabilities and providing some descriptive analysis before one jumps into supervised machine learning and construct a prediction model.
 
 ## USED FILEs:
 Titanic_train.csv - data file
